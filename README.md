@@ -15,7 +15,8 @@ Create a project folder and a venv folder within:
 
 > py -3 -m venv venv
 
-If you needed to install virtualenv because you are using Python 2, use the following command instead:
+If you needed to install virtualenv because you are using **Python 2**, use the following command instead:
+
 > python2 -m virtualenv venv
 
 ### On Windows (Python 2):
@@ -28,6 +29,7 @@ Before you work on your project, activate the corresponding environment:
 
 ### On Windows:
 > venv\Scripts\activate
+
 Your shell prompt will change to show the name of the activated environment.
 
 # Install Flask
@@ -37,7 +39,7 @@ Within the activated environment, use the following command to install Flask:
 
 
 # Routes
-## Enter This url on browser or make A **GET** request on postman or curl 
+## Enter This url on browser or make A ***GET*** request on postman or curl 
 ## http://127.0.0.1:5000/ { Country Name } / {Enter City Name}
 ### Example
 ## http://127.0.0.1:5000/australia/perth
