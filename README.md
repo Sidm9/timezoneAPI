@@ -32,3 +32,11 @@ Install Flask
 Within the activated environment, use the following command to install Flask:
 
 $ pip install Flask
+
+
+#Routes
+Enter This url on browser or make A GET request on postman or curl
+Example
+http://127.0.0.1:5000/australia/perth
+                       COUNTRY   CITY
+
