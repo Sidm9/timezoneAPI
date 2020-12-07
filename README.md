@@ -1,4 +1,4 @@
-# timezoneAPI
+# Timezone API
 Simple TimeZone Api
 
 
@@ -34,9 +34,9 @@ Within the activated environment, use the following command to install Flask:
 $ pip install Flask
 
 
-#Routes
-Enter This url on browser or make A GET request on postman or curl
-Example
-http://127.0.0.1:5000/australia/perth
-                       COUNTRY   CITY
+# Routes
+## Enter This url on browser or make A **GET** request on postman or curl 
+## http://127.0.0.1:5000/ { Country Name } / {Enter City Name}
+### Example
+## http://127.0.0.1:5000/australia/perth
 
